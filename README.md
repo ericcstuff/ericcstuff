@@ -4,8 +4,8 @@
 ### About Me ⛷️
 - I am 15 years old and I am from Tarragona, Catalunya, Spain.
 - Starting to learn python.
-- I am a self-taught and highly creative individual who seeks to learn and improve every day.
-
+- I've been creating video games in Scratch for 5 years.
+- I'm starting to understand Godot.
 
 ### Contact Me 
 ericcmartii@gmail.com
