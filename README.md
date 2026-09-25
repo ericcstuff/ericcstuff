@@ -8,5 +8,4 @@
 - I'm starting to understand Godot.
 
 ### Contact Me 
-https://www.instagram.com/ericcmarti/
 ericc.ascii@gmail.com
